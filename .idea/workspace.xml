@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5255b3c-d517-44b9-92ad-783cf1cec81d" name="Changes" comment="Addimg images" />
+    <list default="true" id="a5255b3c-d517-44b9-92ad-783cf1cec81d" name="Changes" comment="Addimg images">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConditionalExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConditionalExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LoopExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LoopExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoopExercisesTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoopExercisesTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sugpon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sugpon/software-dev-course-java-basics-3.git&quot;,
+    &quot;accountId&quot;: &quot;ce3d89ba-f9e7-459f-be99-d882c769ac0b&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -31,22 +53,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "JUnit.ConditionalExercisesTests.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mikel/projects/java-new-curriculum/software-dev-course-classes-and-objects-2/pom.xml",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConditionalExercisesTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConditionalExercisesTests.testIsValidPassword.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ConditionalExercisesTests.testLessThanFive.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoopExercisesTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoopExercisesTests.testSumUntilEven.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mikel/projects/java-new-curriculum/software-dev-course-classes-and-objects-2/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="JUnit.ConditionalExercisesTests">
     <configuration name="ConditionalExercisesTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-3" />
       <option name="PACKAGE_NAME" value="" />
@@ -56,9 +82,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConditionalExercisesTests.testIsValidPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConditionalExercisesTests" />
+      <option name="METHOD_NAME" value="testIsValidPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalExercisesTests.testLessThanFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConditionalExercisesTests" />
+      <option name="METHOD_NAME" value="testLessThanFive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopExercisesTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoopExercisesTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopExercisesTests.testSumUntilEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoopExercisesTests" />
+      <option name="METHOD_NAME" value="testSumUntilEven" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ConditionalExercisesTests" />
+        <item itemvalue="JUnit.LoopExercisesTests" />
+        <item itemvalue="JUnit.ConditionalExercisesTests.testIsValidPassword" />
+        <item itemvalue="JUnit.LoopExercisesTests.testSumUntilEven" />
+        <item itemvalue="JUnit.ConditionalExercisesTests.testLessThanFive" />
       </list>
     </recent_temporary>
   </component>
